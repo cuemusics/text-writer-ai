@@ -1,0 +1,4 @@
+openai
+pyperclip
+streamlit
+audiorecorder
