@@ -5,7 +5,7 @@ import streamlit as st
 from audiorecorder import audiorecorder
 
 DEFAULT_MODEL_NAME = "gpt-3.5-turbo-0613"
-openai.api_key = "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" # 会社用　
+openai.api_key = "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" # 会社用　
 
 def init_state():
     if "message_history" not in st.session_state:
